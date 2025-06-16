@@ -78,8 +78,8 @@ console.log("Object to Array = ", objectToArray(obj1));
 // 10.*Deep Clone Object*
 // Write a function that deeply clones an object (handles nested objects).
 const original = {
-  name: "John",
-  age: 30,
+  name: "kusum",
+  age: 18,
   address: {
     district: "Bhaktapur",
     state: "Bagmati",
